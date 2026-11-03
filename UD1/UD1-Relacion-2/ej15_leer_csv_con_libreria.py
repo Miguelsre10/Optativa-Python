@@ -1,7 +1,7 @@
 import csv
 media_temp = 0
 contador_temp = 0
-with open('./Python/UD1/UD1-Relacion-2/datos_temperatura.txt', mode='r') as f:
+with open('./Python/UD1/UD1-Relacion-2/datos_temperatura.csv', mode='r') as f:
     lector = csv.reader(f, delimiter=',') #delimiter por defecto es ','
     #saltamos las cabeceras | es igual a hacer next(f) antes del csv.reader
     lector.__next__()
