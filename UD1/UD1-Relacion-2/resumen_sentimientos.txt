@@ -1,0 +1,2 @@
+El % de lineas positivas es 60.0%
+El % de lineas negativas es 20.0%
