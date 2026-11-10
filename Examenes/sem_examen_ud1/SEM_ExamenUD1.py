@@ -4,7 +4,7 @@
 "SOLUCIÓN"
 "***************************************************************************************************************"
 
-fichero = "ventasTiendaExamen.csv"
+fichero = "ventas_tienda.csv"
 salida =  "SEM_Solucion.txt"
 
 #{producto: [], categoria:[]}
