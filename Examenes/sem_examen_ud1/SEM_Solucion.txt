@@ -1,0 +1,14 @@
+Número total de productos: 100
+
+Precio medio: 530.7007999999998$'
+
+Producto mas vendido: Impresora(99 unidades)
+
+Importe total por categoria:
+
+ - ElectrÃ³nica: 1368415.66$
+
+ - Oficina: 1133995.66$
+
+ - Accesorios: 398235.3$
+
